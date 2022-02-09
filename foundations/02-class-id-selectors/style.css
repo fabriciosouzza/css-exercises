@@ -1,0 +1,17 @@
+.number{
+    background-color: #ec8869cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.number.terceiro{
+    font-size: 24px;
+}
+
+#number2{
+    color: #1c45fa80;
+    font-size: 36px;
+}
+#number4{
+    background-color: #46fd4680;
+    font-size: 24px;
+    font-weight: bold;
+}
